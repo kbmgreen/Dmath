@@ -1,6 +1,6 @@
 # My Discrete Math Repository
 
-## Homework 2 - 202655303 (Your ID) KWON BO MIN
+## Homework 2 - 202655303 KWON BO MIN
 
 ### 2.1 Equation Editing
 | # | text | formula |
